@@ -1,0 +1,56 @@
+body{margin:0px;}
+ul{padding-left:0px;}
+ul li{float:left;margin-top:5px;list-style-type:none;}
+ul li div{float:left;font-size:12px;margin-top:2px;}
+a{text-decoration:none;color:#999999;}
+a:hover{color:#ff0000;}
+#content{width:100%;background-image:url("images/wrapper_bg.png");background-repeat:repeat-x;}
+#header{height:135px;width:1000px;margin-left:auto;margin-right:auto;margin-top:-18px;}
+#header_top{height:25px;width:1000px;margin:0px auto;}
+#header_top img{margin-top:-4px;}
+#li_right{float:right;}
+#header_center{width:1000px;height:60px;margin-top:10px;margin-left: auto;margin-right: auto;}
+#header_center img{height:40px;margin-top: 10px;}
+#header_center_left{float:left;}
+#header_center_right{float:right;}
+#header_center_right input[type=text]{width:300px;height:26px;border:1px solid #ff5500;font-size:14px;margin-right:-10px;margin-top: 15px;}
+#header_center_right input[type=submit]{width:30px;height:30px;background-image:url("images/search.png");border-width:0px;cursor:pointer;font-size:14px;}
+#header_bottom ul{width:910px;margin-left:auto;margin-right:auto;margin-top:-16px;}
+#header_bottom ul li{width:100px;line-height:35px;cursor:pointer;text-align:center;margin-left:15px;margin-right: 15px;font-family:微软雅黑;color:#ffffff;font-size:18px;}
+#header_bottom ul li:hover{background-color:#ff8c00;}
+#header_big{width:1000px;height:400px;background-image:url("images/banner_7.5.1.jpg");margin-left: auto;margin-right: auto;}
+#header_big_left{color:#ff8c00;margin-right:30px;font-size:14px;}
+#header_big_right{color:#ff0000;cursor:pointer;font-size:14px;}
+#header_big_right:hover{color:#00ff00;}
+#header_big div{width:300px;text-align:center;position:relative;left:500px;top:240px;}
+#header_big input[type=button]{width:300px;height:70px;border:0px solid #ffffff;background-color:#ff8a00;color:#ffffff;font-size:30px;border-radius:10px;cursor:pointer;}
+#header_big input[type=button]:hover{background-color:#ffaa00;}
+#center{width:990px;height:550px;margin-left: auto;margin-right: auto;}
+#center_header{width:990px;}
+#center_header div{float:left;}
+#center_header_left{width:700px;margin-right:15px;}
+#center_header_right{width:250px;margin-left: 15px;}
+#center_left{width:700px;height:600px;float:left;}
+#center_left div{width:720px;}
+#center_left div div{float:left;width:330px;line-height:30px;color:#ff8c00;margin-right:28px;margin-bottom:10px;}
+#center_left div div img{border:1px solid #eeeeee;padding:4px;}
+#center_left div div input[type=button]{float:right;cursor:pointer;margin-top:5px;border-radius:2px;background-color:#00eeff;border-style:none;}
+#center_left div div input[type=button]:hover{background-color:#ffff00;}
+#center_right{width:250px;height:500px;float:right;}
+#center_right_header{width:240px;margin-left:auto;margin-right:auto;margin-top:-20px}
+#center_right_header ul li{list-style-type:disc;color:#ffff00;font-size:12px;float:none;cursor:pointer;}
+#center_right_header ul li:hover{color:#00ff00;}
+#center_right_header ul li hr{border:1px dotted #cccccc;}
+#center2{width:1020px;height:300px;margin-left: auto;margin-right:auto;}
+#center2_left{width:720px;height:300px;float:left;margin-top:-84px;}
+#center2_left_1 img{width:700px;}
+#center2_left_2 div{width:90px;float:left;margin:0px 14px;}
+#center2_left_2 input[type=button]{width:80px;cursor:pointer;margin-left:4px;margin-top:12px;border-radius:4px;background-color:agba(0,0,0,0);border-style:none;}
+#center2_left_2 input[type=button]:hover{background-color:#00ff00;border:0px none #ff0000;}
+#center2_left_2 img{width:90px;cursor:pointer;}
+#center2_left_3 img{width:700px;margin-top:20px; }
+#center2_left_4 div{float:left;width:90px;text-align:center;margin:0px 14px;font-size:12px;color:#999999;}
+#center2_left_4 div span{cursor:pointer;}
+#center2_left_4 div span:hover{color:#00ffff;}
+#center2_right{width:260px;height:300px;float:right;margin-top:-84px;background-image:url("images/skin_pic.jpg");background-size:cover; }
+#bottom{width:1000px;height:200px;text-align:center;margin:0px auto;padding-top:50px;font-size: 14px;color:#999999;}
